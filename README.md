@@ -1,8 +1,8 @@
 # mogit
 
-Cross-Platform Git GUI Launcher
+tool to create github based repos quickly 
 
-**mogit** is a simple Git GUI tool available for most Linux distributions and FreeBSD. It provides an easy way to visualize and interact with Git repositories, making it easy to quickly create a new Git repository.
+**mogit** is a simple Git tool available for most Linux distributions and FreeBSD. It provides an easy way to visualize and interact with Git repositories, making it easy to quickly create a new Git repository.
 
 ---
 
