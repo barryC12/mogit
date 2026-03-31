@@ -43,9 +43,8 @@ mogit
 ## Features
 
 - Cross-platform support (Linux and FreeBSD)
-- Simple Git GUI for repository visualization
 - Easy installation and setup
-- Quickly create a new Git repository
+- Quickly creates a new Git repository
 
 ## Purpose
 
