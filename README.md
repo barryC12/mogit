@@ -34,8 +34,9 @@ type in mogit auth and follow it
 ```
 ## Usage
 
-Once installed, you can launch mogit from anywhere by running:
+Once installed, you can launch mogit in your desired directory by running:
 ```sh
+cd <directory name>
 mogit
 ```
 
