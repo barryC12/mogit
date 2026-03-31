@@ -34,5 +34,5 @@ else
     exit 1
 fi
 
-chmod +x $PWD/mogit
-sudo mv $PWD/mogit /usr/bin/	
+chmod +x ./mogit
+sudo mv ./mogit /usr/bin/	
